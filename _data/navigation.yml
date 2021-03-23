@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://thanh-pham2k.github.io/Home
+    url: https://thanh-pham2k.github.io/thanh-pham2k/Home
   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "CV"
     url: https://mmistakes.github.io/minimal-mistakes/about/
