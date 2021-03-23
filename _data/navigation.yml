@@ -9,5 +9,5 @@ main:
     url: '/blog/'
     # url: /year-archive/
   - title: "About"
-    url: '/about/'
-    # url: /collection-archive/
+    # url: '/about/'
+    url: /collection-archive/
