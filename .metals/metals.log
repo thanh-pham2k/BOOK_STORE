@@ -2,3 +2,4 @@
 [0m2021.03.23 17:21:18 INFO  time: initialize in 10s[0m
 [0m2021.03.23 17:21:22 WARN  Build server is not auto-connectable.[0m
 [0m2021.03.23 17:21:22 WARN  no build tool detected in workspace 'D:\school\hk185\PPL\AS2\harmony-review\thanhcs.github.io'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.03.23 19:28:51 INFO  shutting down Metals[0m
