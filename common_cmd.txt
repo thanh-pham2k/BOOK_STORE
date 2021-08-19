@@ -1,0 +1,19 @@
+python manage.py makemigrations
+
+
+python manage.py migrate
+
+python manage.py runserver
+
+
+python manage.py startapp shop
+
+python manage.py createsuperuser
+
+
+username: ankkubmt6
+password: thanh123
+
+cần hiển thị thêm đúng API đã.
+
+Sử dụng postman -> check API

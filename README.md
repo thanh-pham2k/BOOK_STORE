@@ -1,37 +1,16 @@
-# BOOK_STORE
-This app you can buy book, login, register and view log.
+# to start
 
-# How to use
-
-``
+```
 git clone
 python -m venv venv
 pip install ir requirements.txt
-``
+```
 
+```javascript
+npm i
+npm run build
+```
 
-## Run client side
-
-``
-
+```python
 python manage.py runserver
-
-``
-
-## Run server side
-
 ```
-npm start
-```
-
-
-# 4 Core functions
-
-## Login - Log out
-
-## Order Book
-
-## Customer confirms Order
-
-## Post book
-
