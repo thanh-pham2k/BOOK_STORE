@@ -11,6 +11,7 @@ pip install ir requirements.txt
 
 
 ## Run client side
+
 ``
 
 python manage.py runserver
